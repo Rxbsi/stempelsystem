@@ -18,6 +18,16 @@ Ein einfaches Zeitstempel-System, mit dem sich Nutzer registrieren, einloggen un
 - **Datenbankintegration**:  
   Alle Nutzerdaten und Zeitstempel werden sicher in einer PostgreSQL-Datenbank gespeichert.
 
+## 🌟 Geplante Features
+Das sind die Features die vielleicht passieren.
+Mit hoher Wahrscheinlichkeit nicht da dies einfach nur ein kleines Freizeitprojekt ist.
+Falls diese Features doch gewollt sind, gerne ein Issue erstellen oder selber hinzufügen :D
+- **Dashboard**: Übersicht der Zeitstempel und Statistiken pro Nutzer.
+- **Admin-Bereich**: Verwaltung von Nutzern und deren Zeitstempeln.
+- **API-Integration**: Bereitstellung von REST-Endpoints zur Interaktion mit externen Systemen.
+- **Front-End**: Naja brauch man halt damits cool aussieht
+- **Mobile**: Anpassung auf Mobile-UI, vielleicht React Native App
+
 ## 📋 Anforderungen
 
 - **Java 17** oder neuer
